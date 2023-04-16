@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaDatabase, FaAsterisk, FaAccusoft, FaFacebook, FaTwitter, FaGithub } from 'react-icons/fa'
-import './HeroStyles.css'
+import './HeroStyle.css'
 
 const Hero = () => {
     return (

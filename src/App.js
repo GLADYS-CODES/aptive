@@ -3,8 +3,8 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./components/Home";
 
 
-import Pricing from './routes/Pricing.js'
-import Contact from './routes/Contact'
+import Pricing from './routes/Pricing';
+import Contact from './routes/Contact';
 
 import Faq from './routes/Faq';
 
